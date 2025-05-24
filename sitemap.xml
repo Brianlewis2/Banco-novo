@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://brianlewis2.github.io/Lewis-dev-Google/</loc>
+    <loc>https://brianlewis2.github.io/Banco-novo/</loc>
     <lastmod>2025-05-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
 
     <image:image>
       <image:loc>https://i.postimg.cc/pd727jK0/FB-IMG-1747664334927.jpg</image:loc>
-      <image:caption>Foto do Brian Lewis - Programador Web</image:caption>
-      <image:title>Brian Lewis Programador Web</image:title>
+      <image:caption>Foto oficial do Brian Lewis para Banco Novo</image:caption>
     </image:image>
+
   </url>
 
 </urlset>
